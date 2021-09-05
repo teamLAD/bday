@@ -1,1 +1,2 @@
-worker: python main.py
+worker: python -m main.py
+ps:scale worker=1
