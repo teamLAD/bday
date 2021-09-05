@@ -1,2 +1,2 @@
-bot_token = '1973456247:AAFQQom4PP_RvR98LzJnufzy_NInQChSOWM'
+bot token = '1973456247:AAFQQom4PP_RvR98LzJnufzy_NInQChSOWM'
 
