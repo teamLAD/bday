@@ -1,2 +1,6 @@
 BOT_TOKEN = '1973456247:AAFQQom4PP_RvR98LzJnufzy_NInQChSOWM'
-
+MYSQL_HOST = 'stq.mysql.ngw.zw.in'
+MYSQL_PORT = 3306
+MYSQL_DATABASE = 'ngw_strategy'
+MYSQL_USER = 'tjlh'
+MYSQL_PASSWORD = 'tjXx^Egw3NdnLK'
